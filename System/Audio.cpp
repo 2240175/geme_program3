@@ -5,7 +5,7 @@
 void Audio::Initialize()
 {
 	HRESULT hr;
-
+	////aaaaaaaaaaaaaaaaaaaaaa
 	// COMÇÃèâä˙âª
 	hr = CoInitializeEx(nullptr, COINIT_MULTITHREADED);
 	_ASSERT_EXPR(SUCCEEDED(hr), HRTrace(hr));
