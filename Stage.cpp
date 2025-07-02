@@ -1,5 +1,8 @@
 #include "Stage.h"
 
+
+//a
+// 
 //コンストラクタ
 Stage::Stage()
 {

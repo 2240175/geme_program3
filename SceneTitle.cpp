@@ -6,6 +6,8 @@
 #include "SceneLoading.h"
 #include"SceneLoading.h"
 
+
+//aiueo
 //‰Šú‰»
 void SceneTitle::Initialize()
 {
